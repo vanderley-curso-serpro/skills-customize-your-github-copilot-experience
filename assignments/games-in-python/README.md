@@ -5,7 +5,11 @@
 
 Desenvolver um jogo da forca em Python para praticar lógica de programação com strings, loops e condicionais. Ao final, o aluno deve ser capaz de controlar o fluxo de uma partida com regras claras de vitória e derrota.
 
+Objetivo de aprendizagem: aplicar estruturas de controle e manipulação de texto em um projeto completo.
+
 ## 📝 Tasks
+
+Tarefas propostas: implemente o núcleo do jogo e depois adicione validações e regras de encerramento.
 
 ### 🛠️ Build the Core Hangman Loop
 
